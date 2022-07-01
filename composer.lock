@@ -8327,16 +8327,16 @@
         },
         {
             "name": "symfony/workflow",
-            "version": "v6.0.9",
+            "version": "v6.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/workflow.git",
-                "reference": "9fad878831eba0d1e72a9a33b6e97ef09ff6eff3"
+                "reference": "5257cf82b7d07526718ee92034880491541d1148"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/workflow/zipball/9fad878831eba0d1e72a9a33b6e97ef09ff6eff3",
-                "reference": "9fad878831eba0d1e72a9a33b6e97ef09ff6eff3",
+                "url": "https://api.github.com/repos/symfony/workflow/zipball/5257cf82b7d07526718ee92034880491541d1148",
+                "reference": "5257cf82b7d07526718ee92034880491541d1148",
                 "shasum": ""
             },
             "require": {
@@ -8388,7 +8388,7 @@
                 "workflow"
             ],
             "support": {
-                "source": "https://github.com/symfony/workflow/tree/v6.0.9"
+                "source": "https://github.com/symfony/workflow/tree/v6.0.10"
             },
             "funding": [
                 {
@@ -8404,7 +8404,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-06T08:44:25+00:00"
+            "time": "2022-05-31T17:20:12+00:00"
         },
         {
             "name": "symfony/yaml",
